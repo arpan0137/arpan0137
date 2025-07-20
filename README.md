@@ -40,10 +40,10 @@
 <h2 align="left">🧰 Tech Stack</h2>
 
 <p>- <strong>Languages:</strong> C, C++, Java, PHP</p>
-<p>- <strong>Frontend:</strong> HTML5, CSS3, TailwindCSS, JavaScript, React, Redux, Next.js</p>
+<p>- <strong>Frontend:</strong> HTML5, CSS3, TailwindCSS, JavaScript, React.js, Next.js</p>
 <p>- <strong>Backend:</strong> Node.js, Express.js</p>
-<p>- <strong>Database:</strong> MongoDB, MySQL</p>
-<p>- <strong>Tools:</strong> Git, GitHub, Postman, Appwrite, Vite</p>
+<p>- <strong>Database:</strong> MySQL,MongoDB</p>
+<p>- <strong>Tools:</strong> Git, GitHub, Postman, Appwrite, Vercel</p>
 
 
 ###
@@ -67,8 +67,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -87,7 +85,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
 
